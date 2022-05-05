@@ -17,7 +17,7 @@ body{
     background-color: rgb(18, 2, 2);
     margin: 10px;
   }
-a {
+.a1 {
     float: right;
     display: block;
     color: #f2f2f2;
@@ -77,6 +77,15 @@ div.copyrigh
         border-radius: 20px;
         padding: 0px;
         width: 70%;
+    }
+.img3{
+      display:  block;
+      margin-left: auto;
+      margin-right:auto;
+      padding: 0px;
+      width: 30%; 
+      padding-left: 0px;
+      padding-right: 0px;
     }
     .buscador{
 
